@@ -1,2 +1,2 @@
-Finding sum of array list using recursive function by 
-Burak Kiper
+# Finding sum of array list using recursive function by 
+# Burak Kiper
